@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github.com/excl1pz/Screaper/blob/main/exclipzpict.png" alt="Thumbnail" />
 </p>
+
 # @exclipz/baileys
 
 <p>
@@ -12,6 +13,7 @@
   <img src="https://img.shields.io/badge/Open%20Source-FF4500?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" />
 </p>
+
 ### Main Features and Advantages
 
 - Supports automatic and custom pairing processes
