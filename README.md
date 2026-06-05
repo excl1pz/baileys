@@ -254,7 +254,7 @@ await sock.sendMessage(jid, {
     footer: "telegram: @ShinVoc",
     document: fs.readFileSync("./package.json"),
     mimetype: "application/pdf",
-    fileName: "yumevtc.pdf",
+    fileName: "ShinVoc.pdf",
     jpegThumbnail: fs.readFileSync("./document.jpeg"),
     contextInfo: {
       mentionedJid: [jid],
@@ -267,7 +267,7 @@ await sock.sendMessage(jid, {
       mediaType: 3,
       thumbnailUrl: "https://example.com/image.jpg",
       mediaUrl: " X ",
-      sourceUrl: "https://t.me/yumevtc",
+      sourceUrl: "https://t.me/ShinVoc",
       showAdAttribution: true,
       renderLargerThumbnail: false         
     },
