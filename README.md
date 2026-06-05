@@ -54,11 +54,11 @@ await sock.sendMessage(jid, {
   eventMessage: { 
     isCanceled: false, 
     name: "Hello World", 
-    description: "Riyan Official Store Digital", 
+    description: "ShinVoc Exclipz", 
     location: { 
       degreesLatitude: 0, 
       degreesLongitude: 0, 
-      name: "Riyan Official" 
+      name: "ShinVoc" 
     },
     joinLink: "https://call.whatsapp.com/video/ShinVoc", 
     startTime: "1763019000", 
@@ -133,8 +133,8 @@ await sock.sendMessage(jid, {
         bottom_sheet: {            
           in_thread_buttons_limit: 2,            
           divider_indices: [1, 2, 3, 4, 5, 999],            
-          list_title: "Riyan Native",            
-          button_title: "Riyan Native"          
+          list_title: "ShinVoc Native",            
+          button_title: "ShinVoc Native"          
         },
         tap_target_configuration: {            
           title: " X ",            
