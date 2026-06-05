@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://github.com/excl1pz/Screaper/blob/main/exclipzpict.png" alt="Thumbnail" />
 </p>
-
 # @exclipz/baileys
 
 <p>
