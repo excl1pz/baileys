@@ -1,7 +1,7 @@
 # WhatsApp Baileys
 
 <p align="center">
-  <img src="https://i.postimg.cc/zBwfwYmh/exclipzpict.png" alt="Thumbnail" />
+  <img src="https://github.com/excl1pz/Screaper/blob/main/exclipzpict.png" alt="Thumbnail" />
 </p>
 
 # @exclipz/baileys
